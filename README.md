@@ -1,5 +1,12 @@
 ### Hi there👋, I'm Chetan 
 
+<img src="https://github.com/Lootera69/Lootera69/blob/main/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 - 🔭 I’m currently working on Web 3.0
 - 🌱 I’m currently learning Hyperledger
 - ❓ Ask me about anything related to DS, Algo, ML, and Backend technologies
