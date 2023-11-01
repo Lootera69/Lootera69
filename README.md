@@ -18,6 +18,6 @@
 <a href="https://www.instagram.com/harshitbaazi/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://www.instagram.com/harshitbaazi/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing">
+  <img height="50" src="https://drive.google.com/file/d/15rwcbXI1-gDzwEeHNOw4DkF_Y2aG0mk1/view?usp=drive_link"/>
 </a>
