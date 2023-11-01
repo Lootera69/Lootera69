@@ -15,3 +15,4 @@
 - 📚 With a strong foundation in Computer Science, I'm eager to contribute to the tech world and take on new challenges. Let's connect and explore opportunities together!
 - ⚡ Fun fact: Ada Lovelace, the world's first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine in the 19th century.
 - 📄 [View My Resume](https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing)
+![](https://github.com/Lootera69/Lootera69/blob/main/resources/test21.gif)
