@@ -14,10 +14,4 @@
 - 💼 I'm actively working on projects that demonstrate my skills and interests. Check out my pinned repositories to see some of my latest work.
 - 📚 With a strong foundation in Computer Science, I'm eager to contribute to the tech world and take on new challenges. Let's connect and explore opportunities together!
 - ⚡ Fun fact: Ada Lovelace, the world's first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine in the 19th century.
-
-<a href="https://www.instagram.com/harshitbaazi/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing">
-  <img height="50" src="https://drive.google.com/file/d/15rwcbXI1-gDzwEeHNOw4DkF_Y2aG0mk1/view?usp=drive_link"/>
-</a>
+- 📄 [View My Resume](https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing)
