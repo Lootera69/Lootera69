@@ -16,4 +16,4 @@
 - ⚡ Fun fact: Ada Lovelace, the world's first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine in the 19th century.
 - 📄 [View My Resume](https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing)
 
-    ![](https://github.com/Lootera69/Lootera69/blob/main/resources/test21.gif)
+<img align="right" alt="coding_img" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
