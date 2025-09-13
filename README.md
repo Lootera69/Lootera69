@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lootera69/count.svg" />
+  <img src="https://profile-counter.deno.dev/Lootera69/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 </p>
 
 - 👋 Welcome to my GitHub profile! I'm Chetan Harshit Singh, a passionate software engineer actively seeking placement opportunities.
