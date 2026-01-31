@@ -1,21 +1,78 @@
-### Hi there👋, I'm Chetan 
-
-<img src="https://github.com/Lootera69/Lootera69/blob/main/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.deno.dev/Lootera69/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+##  Hi there, I'm **Chetan Harshit Singh**
+<p align="center">
+  <img alt="coding_img" src="https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif">
 </p>
 
-- 👋 Welcome to my GitHub profile! I'm Chetan Harshit Singh, a passionate software engineer actively seeking placement opportunities.
-- 🔭 Currently, I'm diving into the world of Web 3.0, exploring its potential and building innovative projects.
-- 🌱 I'm also on a learning journey with Hyperledger, delving deep into blockchain technologies to expand my expertise.
-- ❓ Feel free to reach out to me for discussions or questions related to Data Structures, Algorithms, Machine Learning, and Backend technologies. I love sharing knowledge and collaborating on exciting projects.
-- 💼 I'm actively working on projects that demonstrate my skills and interests. Check out my pinned repositories to see some of my latest work.
-- 📚 With a strong foundation in Computer Science, I'm eager to contribute to the tech world and take on new challenges. Let's connect and explore opportunities together!
-- ⚡ Fun fact: Ada Lovelace, the world's first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine in the 19th century.
-- 📄 [View My Resume](https://drive.google.com/file/d/1jpQbJolZPJ8RY50Ea-dzkpGhMi5NZSYL/view?usp=sharing)
+---
+
+- 👋 Welcome to my GitHub profile! I’m **Chetan Harshit Singh**, a **Salesforce Developer** with experience in building scalable enterprise-grade solutions.
+- 💼 Currently working at **Cognizant Technology Solutions** as a **Salesforce Developer**, delivering Sales & Service Cloud customizations.
+- 🔧 Hands-on experience with **Apex, Lightning Web Components (LWC), Flows, Batch Apex, and Salesforce Administration**.
+- 🔄 Developed and maintained **Salesforce REST & SOAP APIs** for seamless integration with mobile and external systems.
+- 📊 Experienced in automation, reporting frameworks, and performance optimization to reduce manual effort and improve business productivity.
+- 🧠 Strong foundation in **Data Structures, Object-Oriented Programming, and Backend Engineering**.
+- 💻 I actively work on real-world projects reflecting clean code, scalability, and best Salesforce practices—check out my pinned repositories.
+- 📚 B.Tech in Computer Science from **KIIT University** with a strong academic background.
+- ⚡ Fun fact: Salesforce processes **billions of transactions daily**, making scalability and performance critical in every solution.
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1TajYxgvg7orKqkGgNGJ1BTn5DeIySNZW/view?usp=sharing)
+
+---
+
+### 🛠️ Salesforce Skill Set
+
+**Core Salesforce**
+- Apex (Triggers, Batch, Async)
+- Lightning Web Components (LWC)
+- Flows & Process Automation
+- Sales Cloud & Service Cloud
+
+**Integrations & Data**
+- REST API & SOAP API
+- Platform Events
+- External System Callouts
+- SOQL, SOSL, Bulk API
+
+**DevOps & Tools**
+- SFDX CLI
+- Git & GitHub
+- GitLab CI/CD
+- Agile / Scrum
+
+---
+
+### 📌 Featured Projects
+
+**🔍 Clause Analyzer – Unfair Terms & Conditions Detector**  
+- NLP-based system to analyze legal documents and flag unfair clauses  
+- Helps users identify legal risks quickly  
+- 🌐 https://clause-analyzer.netlify.app/
+
+**☁️ Vault 3.0 – Decentralized Cloud Storage**  
+- Blockchain-based DApp using Solidity and React  
+- Enables tamper-proof data storage with optimized smart contracts  
+- 🔗 https://github.com/Lootera69/Vault-3.0
+
+---
+
+### 🏅 Certifications
+
+- Salesforce Certified Platform Developer I  
+- Salesforce Certified JavaScript Developer  
+- Salesforce Certified Administrator  
+- Salesforce Certified Platform App Builder  
+- Salesforce Certified AI Associate
+- Salesforce Certified Agentforce Specialist
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/chsinghh  
+- 🧭 Trailhead: https://www.salesforce.com/trailblazer/chetanharshitsingh  
+- 📧 Email: chetan.harsigh@gmail.com  
+
+---
 
 <p align="center">
-  <img alt="coding_img" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img alt="coding_img" src="https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif">
 </p>
