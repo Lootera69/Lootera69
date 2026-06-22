@@ -56,7 +56,8 @@
 
 ### 🏅 Certifications
 
-- Salesforce Certified Platform Developer I  
+- Salesforce Certified Platform Developer I
+- Salesforce Certified Platform Developer II
 - Salesforce Certified JavaScript Developer  
 - Salesforce Certified Administrator  
 - Salesforce Certified Platform App Builder  
